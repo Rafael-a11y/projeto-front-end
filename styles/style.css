@@ -98,3 +98,11 @@ footer
     display: flex;
     justify-content: center;
 }
+
+@media (max-width: 800px)
+{
+    .texto
+    {
+        padding-left: 35%;
+    }
+}
