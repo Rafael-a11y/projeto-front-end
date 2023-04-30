@@ -147,11 +147,7 @@ footer
 @media (max-width: 480px)
 {
 
-    body
-    {
-        height: 100vh;
-
-    }
+   
     header
     {
         width: 30rem;
@@ -179,8 +175,5 @@ footer
     {
         width: 30rem;
     }
-    .logo
-    {
-        height: auto;
-    }
+    
 }
